@@ -94,7 +94,7 @@ body{
 .apresentacao__imagem{
 	width: 50%;
 	border-radius: 15px;
-	box-shadow: 16px 16px 10px #22D4FD;
+	box-shadow: 16px 16px 10px var(--cor-terciaria);
 
 }
 footer {
